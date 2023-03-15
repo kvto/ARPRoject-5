@@ -59,8 +59,8 @@ An application that is in charge of taking a specific image through Images Targe
 
 > 4.- And finally, the respective Target Images will appear on the initial screen with the previously mentioned models
 
-   | <img src="https://github.com/kvto/ARProject4/blob/main/Imagenes/modeltv3d.png" width="285px" align="center"> 
-|---|
+   | <img src="https://github.com/kvto/ARPRoject-5/blob/main/Imagenes/modelzombie.png" width="285px" align="center"> | <img src="https://github.com/kvto/ARPRoject-5/blob/main/Imagenes/modelariplane1.png" width="285px" align="center"> | <img src="https://github.com/kvto/ARPRoject-5/blob/main/Imagenes/modelariplane2.png" width="285px" align="center">
+|---|---|---|
 
  ## More info about me: 
 <div id="badges" >
